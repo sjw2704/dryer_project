@@ -1,0 +1,71 @@
+2025-03-05 00:12:15,843 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 861082824 Bytes (1073741824)
+2025-03-05 00:12:17,176 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 879957192 Bytes (1073741824)
+2025-03-05 00:12:18,779 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 911936712 Bytes (1073741824)
+2025-03-05 00:12:19,125 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-03-05 00:12:19,125 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2025-03-05 00:12:19,125 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2025-03-05 00:12:19,125 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-03-05 00:12:19,126 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-03-05 00:12:19,127 [INFO] CodeGenerator:896 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2025-03-05 00:12:19,194 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\license.tmp_save
+2025-03-05 00:12:19,395 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\license.tmp
+2025-03-05 00:12:19,434 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\gpio.tmp_save
+2025-03-05 00:12:19,578 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\gpio.tmp
+2025-03-05 00:12:19,713 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_it.c_save
+2025-03-05 00:12:19,991 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_it.c
+2025-03-05 00:12:20,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_it.h_save
+2025-03-05 00:12:20,102 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_it.h
+2025-03-05 00:12:20,121 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_hal_msp.c_save
+2025-03-05 00:12:20,288 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_hal_msp.c
+2025-03-05 00:12:20,297 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\system.tmp_save
+2025-03-05 00:12:20,385 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\system.tmp
+2025-03-05 00:12:20,402 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-03-05 00:12:20,503 [INFO] CodeEngine:335 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_hal_conf.h
+2025-03-05 00:12:20,526 [WARN] IPConfigManager:3618 - IP not found : TIM
+2025-03-05 00:12:20,528 [WARN] CodeGenerator:4152 - IP not found : null
+2025-03-05 00:12:20,544 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\main.h_save
+2025-03-05 00:12:20,660 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\main.h
+2025-03-05 00:12:20,670 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Src\main.c_save
+2025-03-05 00:12:20,789 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Src\main.c
+2025-03-05 00:12:21,279 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 298mS.
+2025-03-05 00:12:21,287 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2025-03-05 00:12:21,371 [INFO] ConfigFileManager:1579 - The Die is : DIE410
+2025-03-05 00:12:22,440 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 1154mS.
+2025-03-05 00:12:22,441 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2025-03-05 00:12:22,448 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2025-03-05 00:13:58,902 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-03-05 00:14:02,738 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 864913072 Bytes (1073741824)
+2025-03-05 00:14:04,013 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 881163952 Bytes (1073741824)
+2025-03-05 00:14:05,664 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 916815536 Bytes (1073741824)
+2025-03-05 00:14:05,801 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-03-05 00:14:05,802 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8F1
+2025-03-05 00:14:05,802 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2025-03-05 00:14:05,802 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-03-05 00:14:05,802 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-03-05 00:14:05,804 [INFO] CodeGenerator:896 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2025-03-05 00:14:05,884 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\license.tmp_save
+2025-03-05 00:14:05,946 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\license.tmp
+2025-03-05 00:14:05,974 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\gpio.tmp_save
+2025-03-05 00:14:06,050 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\gpio.tmp
+2025-03-05 00:14:06,117 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_it.c_save
+2025-03-05 00:14:06,212 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_it.c
+2025-03-05 00:14:06,223 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_it.h_save
+2025-03-05 00:14:06,311 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_it.h
+2025-03-05 00:14:06,335 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_hal_msp.c_save
+2025-03-05 00:14:06,425 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Src\stm32f1xx_hal_msp.c
+2025-03-05 00:14:06,432 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\system.tmp_save
+2025-03-05 00:14:06,485 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\MXTmpFiles\system.tmp
+2025-03-05 00:14:06,500 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-03-05 00:14:06,563 [INFO] CodeEngine:335 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\stm32f1xx_hal_conf.h
+2025-03-05 00:14:06,582 [WARN] IPConfigManager:3618 - IP not found : TIM
+2025-03-05 00:14:06,583 [WARN] CodeGenerator:4152 - IP not found : null
+2025-03-05 00:14:06,596 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\main.h_save
+2025-03-05 00:14:06,659 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Inc\main.h
+2025-03-05 00:14:06,668 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Good\Desktop\developer\debugging_test\Core\Src\main.c_save
+2025-03-05 00:14:06,764 [INFO] CodeEngine:279 - Generated code: C:\Users\Good\Desktop\developer\debugging_test\Core\Src\main.c
+2025-03-05 00:14:07,226 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 267mS.
+2025-03-05 00:14:07,232 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2025-03-05 00:14:07,297 [INFO] ConfigFileManager:1579 - The Die is : DIE410
+2025-03-05 00:14:08,205 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 973mS.
+2025-03-05 00:14:08,206 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 1mS.
+2025-03-05 00:14:08,213 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
